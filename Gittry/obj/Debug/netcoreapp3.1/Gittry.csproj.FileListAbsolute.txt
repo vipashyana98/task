@@ -1,0 +1,13 @@
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.exe
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.deps.json
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.runtimeconfig.json
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.runtimeconfig.dev.json
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.dll
+C:\Users\Vips\Desktop\Gittry\Gittry\bin\Debug\netcoreapp3.1\Gittry.pdb
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.csprojAssemblyReference.cache
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.AssemblyInfoInputs.cache
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.AssemblyInfo.cs
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.csproj.CoreCompileInputs.cache
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.dll
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.pdb
+C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.genruntimeconfig.cache
