@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vips\\Desktop\\Gittry\\Gittry\\Gittry.csproj": {}
+    "D:\\LTI -  855 notes\\GitQuestionOther\\Gittry\\Gittry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vips\\Desktop\\Gittry\\Gittry\\Gittry.csproj": {
+    "D:\\LTI -  855 notes\\GitQuestionOther\\Gittry\\Gittry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vips\\Desktop\\Gittry\\Gittry\\Gittry.csproj",
+        "projectUniqueName": "D:\\LTI -  855 notes\\GitQuestionOther\\Gittry\\Gittry.csproj",
         "projectName": "Gittry",
-        "projectPath": "C:\\Users\\Vips\\Desktop\\Gittry\\Gittry\\Gittry.csproj",
-        "packagesPath": "C:\\Users\\Vips\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vips\\Desktop\\Gittry\\Gittry\\obj\\",
+        "projectPath": "D:\\LTI -  855 notes\\GitQuestionOther\\Gittry\\Gittry.csproj",
+        "packagesPath": "C:\\Users\\Utsav Kejriwal\\.nuget\\packages\\",
+        "outputPath": "D:\\LTI -  855 notes\\GitQuestionOther\\Gittry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vips\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Utsav Kejriwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@ C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.csproj.CoreCo
 C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.dll
 C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.pdb
 C:\Users\Vips\Desktop\Gittry\Gittry\obj\Debug\netcoreapp3.1\Gittry.genruntimeconfig.cache
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.exe
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.deps.json
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.runtimeconfig.json
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.runtimeconfig.dev.json
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.dll
+D:\LTI -  855 notes\GitQuestionOther\Gittry\bin\Debug\netcoreapp3.1\Gittry.pdb
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.csprojAssemblyReference.cache
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.AssemblyInfoInputs.cache
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.AssemblyInfo.cs
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.csproj.CoreCompileInputs.cache
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.dll
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.pdb
+D:\LTI -  855 notes\GitQuestionOther\Gittry\obj\Debug\netcoreapp3.1\Gittry.genruntimeconfig.cache

@@ -4,28 +4,41 @@ namespace Gittry
 {
     class Program
     {
+            public static int Multiply(int a, int b)
+            {
+                return a * b;
+            }
 
+            public static int Addition(int a, int b)
+            {
+                return a + b;
+            }
+
+            public static int Difference(int a, int b)
+            {
+                return a - b;
+            }
         static void Main(string[] args)
-        {
+            {
+                Console.WriteLine("Enter first number");
+                int num1 = 0;
+                while (!Int32.TryParse(Console.ReadLine(), out num1) || num1 == 0)
+                {
+                    Console.WriteLine("Number invalid or zero");
+                }
 
-            
-            
-                int num1, num2;
-            
-            
-                Console.WriteLine("please enter the Number1");
-                num1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("please enter the Number2");
-                num2 = Convert.ToInt32(Console.ReadLine());
-            
-            
-                int result = num1 + num2;
-            
-                Console.WriteLine("Sum of two Numbers"+ result.ToString());
-                Console.ReadLine();
-            
-            
+                Console.WriteLine("Enter second number");
+                int num2 = 0;
+                while (!Int32.TryParse(Console.ReadLine(), out num2) || num2 == 0)
+                {
+                    Console.WriteLine("Number invalid or zero");
+                }
 
-        }
+                Console.WriteLine("Product:" + Multiply(num1, num2));
+                Console.WriteLine("Addition:" + Addition(num1, num2));
+                Console.WriteLine("Difference:" + Difference(num1, num2));
+
+            Console.ReadKey();
+            }
     }
 }
