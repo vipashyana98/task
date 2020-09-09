@@ -14,10 +14,7 @@ namespace Gittry
                 return a + b;
             }
 
-            public static int Difference(int a, int b)
-            {
-                return a - b;
-            }
+           
         static void Main(string[] args)
             {
                 Console.WriteLine("Enter first number");
@@ -36,7 +33,7 @@ namespace Gittry
 
                 Console.WriteLine("Product:" + Multiply(num1, num2));
                 Console.WriteLine("Addition:" + Addition(num1, num2));
-                Console.WriteLine("Difference:" + Difference(num1, num2));
+               
 
             Console.ReadKey();
             }
