@@ -13,6 +13,10 @@ namespace Gittry
             {
                 return a + b;
             }
+         public static int division(int a, int b)
+            {
+                return a / b;
+            }
 
            
         static void Main(string[] args)
@@ -33,7 +37,7 @@ namespace Gittry
 
                 Console.WriteLine("Product:" + Multiply(num1, num2));
                 Console.WriteLine("Addition:" + Addition(num1, num2));
-               
+                Console.WriteLine("division:" + division(num1, num2));
 
             Console.ReadKey();
             }
